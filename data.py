@@ -15,5 +15,6 @@ b = 10
 print(a==b)
 # 1 =lik menimsetmek 2==lik true false verir != beraber deyil 
 print(a!=b)
-name = alii
+name = 'alii'
 print(name[1])
+print("")
